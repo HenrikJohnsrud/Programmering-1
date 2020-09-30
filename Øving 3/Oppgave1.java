@@ -24,7 +24,7 @@ public class Oppgave1 {
                 }
             }
         }
-        else {
+        else { 
             System.out.println("Det første tallet må være mindre enn det andre");
         }
     }
