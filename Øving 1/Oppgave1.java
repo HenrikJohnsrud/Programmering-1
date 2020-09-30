@@ -1,5 +1,5 @@
 import static javax.swing.JOptionPane.*;
-class Oving1_1 {
+class Oppgave1 {
     public static void main(String[] args) {
         String lengdeLest = showInputDialog("Lengde (Tommer): ");
         double lengde= Double.parseDouble(lengdeLest);
